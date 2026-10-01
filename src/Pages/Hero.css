@@ -1,0 +1,15 @@
+.hero-img {
+  height: 650px;
+  object-fit: cover;
+}
+.carousel-indicators {
+  display: none !important;
+}
+.hero-section {
+  position: relative;
+}
+@media (max-width: 576px) {
+  .hero-img {
+    height: 350px;
+  }
+}

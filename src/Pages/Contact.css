@@ -1,0 +1,9 @@
+.calculator {
+  margin-top: 150px;
+  background-image: url(../assets/calculator-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  padding: 80px 0px;
+}

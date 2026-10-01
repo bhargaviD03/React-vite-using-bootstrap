@@ -1,0 +1,4 @@
+table.table td,
+table.table th {
+  padding: 12px 12px !important;
+}

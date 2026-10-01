@@ -1,0 +1,19 @@
+.ctasection .card {
+  min-height: 300px;
+  overflow: hidden;
+}
+
+.ctasection .card-img {
+  height: 300px;
+  object-fit: cover;
+}
+
+@media (max-width: 576px) {
+  .ctasection .card {
+    min-height: 400px;
+  }
+
+  .ctasection .card-img {
+    height: 400px;
+  }
+}
